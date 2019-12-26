@@ -1,0 +1,8 @@
+Test Site Report:
+Average first name length: 5
+Average last name length: 6
+Average field test 1 score: 76
+Average field test 2 score: 68
+Average field test 3 score: 68
+
+Best pilot data:
